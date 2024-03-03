@@ -34,6 +34,9 @@ Disini saya telah membuat sebuah fungsi yang berguna untuk mensortir daftar mobi
 
 Ketika data `cars` dimasukkan ke dalam fungsi `sortCarByYearDescendingly`, maka hasil dari fungsi tersebut telah berupa `Array<Car>` juga, yang mana tiap item telah memiliki atribut `year` paling muda dibanding item-item berikutnya di dalam daftar tersebut.
 
+# Testing Result
+![image](https://github.com/dvlboo/km6-kuh-js-array-ch/assets/92429096/7c652aa1-77f3-4b93-abde-ffe66cec806c)
+
 
 # Quotes of The Hack
 
